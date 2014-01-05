@@ -19,7 +19,8 @@ pt-BR:
       location: "Localização:"
       description: "Descrição:"
     index:
-      title: "Título:"
+      title: "Quartos Disponíves:"
+      name: "Nome:"
       location: "Localização:"
       description: "Descrição:"
       new: Cadastrar Quarto
