@@ -24,6 +24,13 @@ pt-BR:
       location: "Localização:"
       description: "Descrição:"
       new: Cadastrar Quarto
+  signup:
+    confirm_email:
+      subject: "Colcho.net - Confirme seu email"
+      title: "Seja bem vindo ao Colcho.net!"
+      body: "Bla bla bla bla bla"
+      confirm_link_html: "Para você começar a usar o site, acesse o link: %{link}"
+      thanks_html: "Obrigado por se cadastrar no %{link}"
   links:
     back: Voltar
     show: Exibir
